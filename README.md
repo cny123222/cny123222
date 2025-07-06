@@ -9,9 +9,9 @@ A third-year student in **Computer Science**
 
 ## 🔬 Research Interests
 
-- **Computer Vision**
 - **Machine Learning for Combinatorial Optimization (ML4CO)**
 - **Large Language Models (LLM)**
+- **Computer Vision**
 
 ## 🚀 Selected Projects
 

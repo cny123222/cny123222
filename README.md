@@ -1,6 +1,7 @@
 # Hi, I'm cny123222 👋
 
 A third-year student in **Computer Science**
+
 @ **Shanghai Jiao Tong University**'s IEEE Honor Class
 - 🏛️ Research intern at [RethinkLab](https://thinklab.sjtu.edu.cn)
 - 📫 Contact: cny123222 AT sjtu.edu.cn

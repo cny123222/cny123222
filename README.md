@@ -14,11 +14,11 @@ I'm a third-year Computer Science student at **Shanghai Jiao Tong University's I
 
 ## 🚀 Selected Projects
 
-- **Dynamic Search-Based Dragon Dance Motion Analysis**  
-  National Mathematical Modeling Contest A-problem, awarded National First Prize and BeiTai Tianyuan Star.
+- **Analysis of Motion States and Route Planning of the "Bench Dragon" Based on Dynamic Search**  
+  2024 CUMCM problem A, awarded National First Prize (Problem A, #1 Nationwide) & BeiTai TianYuan Star of Mathematical Modeling.
 
 - **ML4CO-Kit (Contributor)**  
-  A RethinkLab toolkit for machine learning research in combinatorial optimization.
+  A toolkit for machine learning research in combinatorial optimization produced by RethinkLab.
 
 - **STARS**  
   An adaptive bitrate HTTP streaming system with comprehensive QoE optimization.
@@ -32,7 +32,6 @@ I'm a third-year Computer Science student at **Shanghai Jiao Tong University's I
 
 - 💡 Always exploring new intersections of machine learning, optimization, and real-world applications.
 - 🤝 Open to collaboration and academic exchange.
-- 🌏 Based in Shanghai, China.
 
 ---
 

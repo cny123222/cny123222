@@ -1,32 +1,39 @@
 # Hi, I'm cny123222 👋
 
-I'm a third-year Computer Science student at **Shanghai Jiao Tong University's IEEE Honor Class**, also a proud member of the **Zhiyuan Engineering Honors Program**.
+I'm a third-year Computer Science student at **Shanghai Jiao Tong University's IEEE Honor Class** and a member of the **Zhiyuan Engineering Honors Program**.
 
 - 🏛️ Research intern at [RethinkLab](https://thinklab.sjtu.edu.cn)
 - 📫 Contact: cny123222 AT sjtu.edu.cn
+- 📝 [Personal Blog](https://cny123222.github.io)
 
 ## 🔬 Research Interests
 
-- **Computer Vision & Machine Learning**
-- **ML for Combinatorial Optimization**
+- **Computer Vision**
+- **Machine Learning for Combinatorial Optimization (ML4CO)**
 - **Large Language Models (LLM)**
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-Here are some of my highlighted repositories.  
-You can find more at my [GitHub profile](https://github.com/cny123222)!
+- **Dynamic Search-Based Dragon Dance Motion Analysis**  
+  National Mathematical Modeling Contest A-problem, awarded National First Prize and BeiTai Tianyuan Star.
 
-- **ML4CO**: Machine Learning for Combinatorial Optimization — experiments and benchmarks.
-- **Computer Networks**: Course projects and protocols implementation.
-- **Multimedia Retrieval**: Projects for image/video search and retrieval techniques.
-- **Other ML/AI Projects**: Explorations in neural networks, optimization, and more.
+- **ML4CO-Kit (Contributor)**  
+  A RethinkLab toolkit for machine learning research in combinatorial optimization.
 
-## 📈 Stats
+- **STARS**  
+  An adaptive bitrate HTTP streaming system with comprehensive QoE optimization.
 
-![cny123222's GitHub stats](https://github-readme-stats.vercel.app/api?username=cny123222&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cny123222&layout=compact)
+- **License Plate Recognition**  
+  End-to-end real-world LPR system integrating classical and deep learning techniques.
+
+- **More:** See my pinned repositories and recent work for projects on computer networks, multimedia retrieval, and more.
+
+## 🌱 About Me
+
+- 💡 Always exploring new intersections of machine learning, optimization, and real-world applications.
+- 🤝 Open to collaboration and academic exchange.
+- 🌏 Based in Shanghai, China.
 
 ---
 
-Thanks for visiting!  
-Feel free to connect or check out my repositories for more information.
+*Thanks for visiting! Feel free to connect, check out my repositories, or reach out for collaboration or discussion.*

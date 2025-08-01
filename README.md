@@ -5,7 +5,7 @@ A third-year student in **Computer Science**
 @ **Shanghai Jiao Tong University**'s IEEE Honor Class
 - 🏛️ Research intern at [RethinkLab](https://thinklab.sjtu.edu.cn)
 - 📫 Contact: cny123222 AT sjtu.edu.cn
-- 📝 [Personal Blog](https://cny123222.github.io)
+- 📝 [My personal blog](https://cny123222.github.io)
 
 ## 🔬 Research Interests
 
@@ -18,10 +18,13 @@ A third-year student in **Computer Science**
 - **Analysis of Motion States and Route Planning of the "Bench Dragon" Based on Dynamic Search**  
   2024 CUMCM problem A, awarded National First Prize (Problem A, #1 Nationwide) & BeiTai TianYuan Star of Mathematical Modeling.
 
+- **A Living Guide to ML4CO** 
+  A continuously updated beginner’s guide to Machine Learning for Combinatorial Optimization (ML4CO), with notes, code, and reflections from a learner’s perspective.
+
 - **ML4CO-Kit (Contributor)**  
   A toolkit for machine learning research in combinatorial optimization produced by RethinkLab.
 
-- **STARS**  
+- **STARS: STateful Adaptive Rate Selection**  
   An adaptive bitrate HTTP streaming system with comprehensive QoE optimization.
 
 - **License Plate Recognition**  

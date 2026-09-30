@@ -1,16 +1,16 @@
 # Hi, I'm cny123222 👋
 
-A third-year student in **Computer Science**
+An incoming Ph.D. student at the **School of Artificial Intelligence**
 
-@ **Shanghai Jiao Tong University**'s IEEE Honor Class
-- 🏛️ Research intern at [RethinkLab](https://thinklab.sjtu.edu.cn)
+@ **Shanghai Jiao Tong University**
+- 🏛️ Member of [RethinkLab](https://thinklab.sjtu.edu.cn)
 - 📫 Contact: *cny123222 AT sjtu.edu.cn*
 - 📝 [My personal blog](https://cny123222.github.io)
 
 ## 🔬 Research Interests
 
 - **Machine Learning for Combinatorial Optimization (ML4CO)**
-- **Computer Vision (CV)**
+- **World Models**
 - **Large Language Models (LLM)**
 
 ## 🚀 Selected Projects
